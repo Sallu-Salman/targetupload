@@ -1,1 +1,1 @@
-Just to uploat war files to cloud
+Just to upload war files to cloud
